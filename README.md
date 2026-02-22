@@ -236,7 +236,7 @@ From the written proposal and stakeholder Q&A:
 .
 ├─ README.md                  # This file
 ├─ data/
-│  └─ bank-additional-full.csv  # UCI Bank Marketing dataset (not included by default)
+│  └─ bank-additional-full.csv  # UCI Bank Marketing dataset
 ├─ notebooks/
 │  ├─ P1-S1-Data-Wrangling.ipynb
 │  ├─ P1-S2-Data-Modeling.ipynb
